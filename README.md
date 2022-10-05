@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hello and bla bla 🙄
 
-<!--
-**spinoteex/spinoteex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👽 **I'm Igor Nogueira**
+- 👨‍💻 16y dev & hacking
 
-Here are some ideas to get you started:
+- Favourites tools:  
+<img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b>React Native</b>  
+<img src="https://i.ibb.co/vVxmyN2/node.png" width="20"/> <b>Node Js</b>  
+🐍 <b>Python</b>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ##
+
+<div>
+  <a href="https://instagram.com/igor_nogueirasz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+</div>
